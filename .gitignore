@@ -1,0 +1,10 @@
+bin/
+*.lock
+.vs/
+.git/
+obj/
+*.DotSettings.user
+packages/
+iBWorking.GitSharp/GitCredentials.xml
+iBWorking.JiraAdapter/GitCredentials.xml
+iBWorking.JiraAdapter/JiraCredentials.xml
